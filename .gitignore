@@ -1,0 +1,4 @@
+users.json
+secrets.env
+__pycache__/
+*.pyc
